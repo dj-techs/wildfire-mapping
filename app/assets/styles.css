@@ -1,0 +1,35 @@
+/* Custom styles layered on top of dash-bootstrap DARKLY theme. */
+
+body { background: #0f172a; }
+
+.app-shell { display: flex; flex-direction: column; height: 100vh; }
+
+.app-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 12px 24px; background: #111827; border-bottom: 1px solid #1f2937;
+}
+.brand { font-size: 18px; font-weight: 600; color: #f59e0b; }
+.user-tag { color: #9ca3af; font-size: 13px; }
+
+.app-body { display: flex; flex: 1; overflow: hidden; }
+
+.sidebar {
+  width: 320px; padding: 20px; background: #111827;
+  border-right: 1px solid #1f2937; overflow-y: auto;
+}
+.sidebar-title { color: #f59e0b; margin-bottom: 16px; }
+.sidebar label { font-size: 13px; color: #d1d5db; margin-top: 12px; display: block; }
+
+.main { flex: 1; padding: 16px; overflow-y: auto; }
+
+.kpi-row { margin-bottom: 12px; }
+.kpi-card { background: #1f2937 !important; border: 1px solid #374151 !important; }
+.kpi-label { font-size: 11px; color: #9ca3af; text-transform: uppercase; letter-spacing: 0.05em; }
+.kpi-value { font-size: 24px; font-weight: 600; color: #f59e0b; margin-top: 4px; }
+.kpi-sub { font-size: 11px; color: #9ca3af; margin-top: 2px; }
+
+/* Tighten dropdown look against the dark theme. */
+.Select-control, .Select-menu-outer {
+  background: #1f2937 !important; border-color: #374151 !important; color: #e5e7eb !important;
+}
+.Select-value-label, .Select-value { color: #e5e7eb !important; }

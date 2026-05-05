@@ -1,0 +1,2741 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1001",
+    "name": "California County 00",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 34.083333333333336,
+    "centroid_lon": -123.1875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       32.5
+      ],
+      [
+       -121.875,
+       32.5
+      ],
+      [
+       -121.875,
+       35.666666666666664
+      ],
+      [
+       -124.5,
+       35.666666666666664
+      ],
+      [
+       -124.5,
+       32.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1002",
+    "name": "California County 01",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 34.083333333333336,
+    "centroid_lon": -120.5625
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.875,
+       32.5
+      ],
+      [
+       -119.25,
+       32.5
+      ],
+      [
+       -119.25,
+       35.666666666666664
+      ],
+      [
+       -121.875,
+       35.666666666666664
+      ],
+      [
+       -121.875,
+       32.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1003",
+    "name": "California County 02",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 34.083333333333336,
+    "centroid_lon": -117.9375
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -119.25,
+       32.5
+      ],
+      [
+       -116.625,
+       32.5
+      ],
+      [
+       -116.625,
+       35.666666666666664
+      ],
+      [
+       -119.25,
+       35.666666666666664
+      ],
+      [
+       -119.25,
+       32.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1004",
+    "name": "California County 03",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 34.083333333333336,
+    "centroid_lon": -115.3125
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.625,
+       32.5
+      ],
+      [
+       -114.0,
+       32.5
+      ],
+      [
+       -114.0,
+       35.666666666666664
+      ],
+      [
+       -116.625,
+       35.666666666666664
+      ],
+      [
+       -116.625,
+       32.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1005",
+    "name": "California County 10",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 37.25,
+    "centroid_lon": -123.1875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       35.666666666666664
+      ],
+      [
+       -121.875,
+       35.666666666666664
+      ],
+      [
+       -121.875,
+       38.83333333333333
+      ],
+      [
+       -124.5,
+       38.83333333333333
+      ],
+      [
+       -124.5,
+       35.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1006",
+    "name": "California County 11",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 37.25,
+    "centroid_lon": -120.5625
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.875,
+       35.666666666666664
+      ],
+      [
+       -119.25,
+       35.666666666666664
+      ],
+      [
+       -119.25,
+       38.83333333333333
+      ],
+      [
+       -121.875,
+       38.83333333333333
+      ],
+      [
+       -121.875,
+       35.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1007",
+    "name": "California County 12",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 37.25,
+    "centroid_lon": -117.9375
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -119.25,
+       35.666666666666664
+      ],
+      [
+       -116.625,
+       35.666666666666664
+      ],
+      [
+       -116.625,
+       38.83333333333333
+      ],
+      [
+       -119.25,
+       38.83333333333333
+      ],
+      [
+       -119.25,
+       35.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1008",
+    "name": "California County 13",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 37.25,
+    "centroid_lon": -115.3125
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.625,
+       35.666666666666664
+      ],
+      [
+       -114.0,
+       35.666666666666664
+      ],
+      [
+       -114.0,
+       38.83333333333333
+      ],
+      [
+       -116.625,
+       38.83333333333333
+      ],
+      [
+       -116.625,
+       35.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1009",
+    "name": "California County 20",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 40.41666666666667,
+    "centroid_lon": -123.1875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       38.833333333333336
+      ],
+      [
+       -121.875,
+       38.833333333333336
+      ],
+      [
+       -121.875,
+       42.0
+      ],
+      [
+       -124.5,
+       42.0
+      ],
+      [
+       -124.5,
+       38.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1010",
+    "name": "California County 21",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 40.41666666666667,
+    "centroid_lon": -120.5625
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -121.875,
+       38.833333333333336
+      ],
+      [
+       -119.25,
+       38.833333333333336
+      ],
+      [
+       -119.25,
+       42.0
+      ],
+      [
+       -121.875,
+       42.0
+      ],
+      [
+       -121.875,
+       38.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1011",
+    "name": "California County 22",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 40.41666666666667,
+    "centroid_lon": -117.9375
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -119.25,
+       38.833333333333336
+      ],
+      [
+       -116.625,
+       38.833333333333336
+      ],
+      [
+       -116.625,
+       42.0
+      ],
+      [
+       -119.25,
+       42.0
+      ],
+      [
+       -119.25,
+       38.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1012",
+    "name": "California County 23",
+    "state": "CA",
+    "state_name": "California",
+    "centroid_lat": 40.41666666666667,
+    "centroid_lon": -115.3125
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.625,
+       38.833333333333336
+      ],
+      [
+       -114.0,
+       38.833333333333336
+      ],
+      [
+       -114.0,
+       42.0
+      ],
+      [
+       -116.625,
+       42.0
+      ],
+      [
+       -116.625,
+       38.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1013",
+    "name": "Oregon County 00",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 42.71666666666667,
+    "centroid_lon": -123.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       42.0
+      ],
+      [
+       -122.5,
+       42.0
+      ],
+      [
+       -122.5,
+       43.43333333333333
+      ],
+      [
+       -124.5,
+       43.43333333333333
+      ],
+      [
+       -124.5,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1014",
+    "name": "Oregon County 01",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 42.71666666666667,
+    "centroid_lon": -121.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.5,
+       42.0
+      ],
+      [
+       -120.5,
+       42.0
+      ],
+      [
+       -120.5,
+       43.43333333333333
+      ],
+      [
+       -122.5,
+       43.43333333333333
+      ],
+      [
+       -122.5,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1015",
+    "name": "Oregon County 02",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 42.71666666666667,
+    "centroid_lon": -119.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.5,
+       42.0
+      ],
+      [
+       -118.5,
+       42.0
+      ],
+      [
+       -118.5,
+       43.43333333333333
+      ],
+      [
+       -120.5,
+       43.43333333333333
+      ],
+      [
+       -120.5,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1016",
+    "name": "Oregon County 03",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 42.71666666666667,
+    "centroid_lon": -117.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       42.0
+      ],
+      [
+       -116.5,
+       42.0
+      ],
+      [
+       -116.5,
+       43.43333333333333
+      ],
+      [
+       -118.5,
+       43.43333333333333
+      ],
+      [
+       -118.5,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1017",
+    "name": "Oregon County 10",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 44.15,
+    "centroid_lon": -123.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       43.43333333333333
+      ],
+      [
+       -122.5,
+       43.43333333333333
+      ],
+      [
+       -122.5,
+       44.86666666666666
+      ],
+      [
+       -124.5,
+       44.86666666666666
+      ],
+      [
+       -124.5,
+       43.43333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1018",
+    "name": "Oregon County 11",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 44.15,
+    "centroid_lon": -121.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.5,
+       43.43333333333333
+      ],
+      [
+       -120.5,
+       43.43333333333333
+      ],
+      [
+       -120.5,
+       44.86666666666666
+      ],
+      [
+       -122.5,
+       44.86666666666666
+      ],
+      [
+       -122.5,
+       43.43333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1019",
+    "name": "Oregon County 12",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 44.15,
+    "centroid_lon": -119.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.5,
+       43.43333333333333
+      ],
+      [
+       -118.5,
+       43.43333333333333
+      ],
+      [
+       -118.5,
+       44.86666666666666
+      ],
+      [
+       -120.5,
+       44.86666666666666
+      ],
+      [
+       -120.5,
+       43.43333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1020",
+    "name": "Oregon County 13",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 44.15,
+    "centroid_lon": -117.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       43.43333333333333
+      ],
+      [
+       -116.5,
+       43.43333333333333
+      ],
+      [
+       -116.5,
+       44.86666666666666
+      ],
+      [
+       -118.5,
+       44.86666666666666
+      ],
+      [
+       -118.5,
+       43.43333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1021",
+    "name": "Oregon County 20",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 45.583333333333336,
+    "centroid_lon": -123.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.5,
+       44.86666666666667
+      ],
+      [
+       -122.5,
+       44.86666666666667
+      ],
+      [
+       -122.5,
+       46.3
+      ],
+      [
+       -124.5,
+       46.3
+      ],
+      [
+       -124.5,
+       44.86666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1022",
+    "name": "Oregon County 21",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 45.583333333333336,
+    "centroid_lon": -121.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.5,
+       44.86666666666667
+      ],
+      [
+       -120.5,
+       44.86666666666667
+      ],
+      [
+       -120.5,
+       46.3
+      ],
+      [
+       -122.5,
+       46.3
+      ],
+      [
+       -122.5,
+       44.86666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1023",
+    "name": "Oregon County 22",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 45.583333333333336,
+    "centroid_lon": -119.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.5,
+       44.86666666666667
+      ],
+      [
+       -118.5,
+       44.86666666666667
+      ],
+      [
+       -118.5,
+       46.3
+      ],
+      [
+       -120.5,
+       46.3
+      ],
+      [
+       -120.5,
+       44.86666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1024",
+    "name": "Oregon County 23",
+    "state": "OR",
+    "state_name": "Oregon",
+    "centroid_lat": 45.583333333333336,
+    "centroid_lon": -117.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       44.86666666666667
+      ],
+      [
+       -116.5,
+       44.86666666666667
+      ],
+      [
+       -116.5,
+       46.3
+      ],
+      [
+       -118.5,
+       46.3
+      ],
+      [
+       -118.5,
+       44.86666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1025",
+    "name": "Washington County 00",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 46.083333333333336,
+    "centroid_lon": -123.825
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.8,
+       45.5
+      ],
+      [
+       -122.85,
+       45.5
+      ],
+      [
+       -122.85,
+       46.666666666666664
+      ],
+      [
+       -124.8,
+       46.666666666666664
+      ],
+      [
+       -124.8,
+       45.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1026",
+    "name": "Washington County 01",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 46.083333333333336,
+    "centroid_lon": -121.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.85,
+       45.5
+      ],
+      [
+       -120.89999999999999,
+       45.5
+      ],
+      [
+       -120.89999999999999,
+       46.666666666666664
+      ],
+      [
+       -122.85,
+       46.666666666666664
+      ],
+      [
+       -122.85,
+       45.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1027",
+    "name": "Washington County 02",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 46.083333333333336,
+    "centroid_lon": -119.92500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.9,
+       45.5
+      ],
+      [
+       -118.95,
+       45.5
+      ],
+      [
+       -118.95,
+       46.666666666666664
+      ],
+      [
+       -120.9,
+       46.666666666666664
+      ],
+      [
+       -120.9,
+       45.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1028",
+    "name": "Washington County 03",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 46.083333333333336,
+    "centroid_lon": -117.97500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.95,
+       45.5
+      ],
+      [
+       -117.0,
+       45.5
+      ],
+      [
+       -117.0,
+       46.666666666666664
+      ],
+      [
+       -118.95,
+       46.666666666666664
+      ],
+      [
+       -118.95,
+       45.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1029",
+    "name": "Washington County 10",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 47.25,
+    "centroid_lon": -123.825
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.8,
+       46.666666666666664
+      ],
+      [
+       -122.85,
+       46.666666666666664
+      ],
+      [
+       -122.85,
+       47.83333333333333
+      ],
+      [
+       -124.8,
+       47.83333333333333
+      ],
+      [
+       -124.8,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1030",
+    "name": "Washington County 11",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 47.25,
+    "centroid_lon": -121.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.85,
+       46.666666666666664
+      ],
+      [
+       -120.89999999999999,
+       46.666666666666664
+      ],
+      [
+       -120.89999999999999,
+       47.83333333333333
+      ],
+      [
+       -122.85,
+       47.83333333333333
+      ],
+      [
+       -122.85,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1031",
+    "name": "Washington County 12",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 47.25,
+    "centroid_lon": -119.92500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.9,
+       46.666666666666664
+      ],
+      [
+       -118.95,
+       46.666666666666664
+      ],
+      [
+       -118.95,
+       47.83333333333333
+      ],
+      [
+       -120.9,
+       47.83333333333333
+      ],
+      [
+       -120.9,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1032",
+    "name": "Washington County 13",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 47.25,
+    "centroid_lon": -117.97500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.95,
+       46.666666666666664
+      ],
+      [
+       -117.0,
+       46.666666666666664
+      ],
+      [
+       -117.0,
+       47.83333333333333
+      ],
+      [
+       -118.95,
+       47.83333333333333
+      ],
+      [
+       -118.95,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1033",
+    "name": "Washington County 20",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 48.41666666666667,
+    "centroid_lon": -123.825
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -124.8,
+       47.833333333333336
+      ],
+      [
+       -122.85,
+       47.833333333333336
+      ],
+      [
+       -122.85,
+       49.0
+      ],
+      [
+       -124.8,
+       49.0
+      ],
+      [
+       -124.8,
+       47.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1034",
+    "name": "Washington County 21",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 48.41666666666667,
+    "centroid_lon": -121.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.85,
+       47.833333333333336
+      ],
+      [
+       -120.89999999999999,
+       47.833333333333336
+      ],
+      [
+       -120.89999999999999,
+       49.0
+      ],
+      [
+       -122.85,
+       49.0
+      ],
+      [
+       -122.85,
+       47.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1035",
+    "name": "Washington County 22",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 48.41666666666667,
+    "centroid_lon": -119.92500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.9,
+       47.833333333333336
+      ],
+      [
+       -118.95,
+       47.833333333333336
+      ],
+      [
+       -118.95,
+       49.0
+      ],
+      [
+       -120.9,
+       49.0
+      ],
+      [
+       -120.9,
+       47.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1036",
+    "name": "Washington County 23",
+    "state": "WA",
+    "state_name": "Washington",
+    "centroid_lat": 48.41666666666667,
+    "centroid_lon": -117.97500000000001
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.95,
+       47.833333333333336
+      ],
+      [
+       -117.0,
+       47.833333333333336
+      ],
+      [
+       -117.0,
+       49.0
+      ],
+      [
+       -118.95,
+       49.0
+      ],
+      [
+       -118.95,
+       47.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1037",
+    "name": "Nevada County 00",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 36.166666666666664,
+    "centroid_lon": -119.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.0,
+       35.0
+      ],
+      [
+       -118.5,
+       35.0
+      ],
+      [
+       -118.5,
+       37.333333333333336
+      ],
+      [
+       -120.0,
+       37.333333333333336
+      ],
+      [
+       -120.0,
+       35.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1038",
+    "name": "Nevada County 01",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 36.166666666666664,
+    "centroid_lon": -117.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       35.0
+      ],
+      [
+       -117.0,
+       35.0
+      ],
+      [
+       -117.0,
+       37.333333333333336
+      ],
+      [
+       -118.5,
+       37.333333333333336
+      ],
+      [
+       -118.5,
+       35.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1039",
+    "name": "Nevada County 02",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 36.166666666666664,
+    "centroid_lon": -116.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.0,
+       35.0
+      ],
+      [
+       -115.5,
+       35.0
+      ],
+      [
+       -115.5,
+       37.333333333333336
+      ],
+      [
+       -117.0,
+       37.333333333333336
+      ],
+      [
+       -117.0,
+       35.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1040",
+    "name": "Nevada County 03",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 36.166666666666664,
+    "centroid_lon": -114.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.5,
+       35.0
+      ],
+      [
+       -114.0,
+       35.0
+      ],
+      [
+       -114.0,
+       37.333333333333336
+      ],
+      [
+       -115.5,
+       37.333333333333336
+      ],
+      [
+       -115.5,
+       35.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1041",
+    "name": "Nevada County 10",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 38.5,
+    "centroid_lon": -119.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.0,
+       37.333333333333336
+      ],
+      [
+       -118.5,
+       37.333333333333336
+      ],
+      [
+       -118.5,
+       39.66666666666667
+      ],
+      [
+       -120.0,
+       39.66666666666667
+      ],
+      [
+       -120.0,
+       37.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1042",
+    "name": "Nevada County 11",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 38.5,
+    "centroid_lon": -117.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       37.333333333333336
+      ],
+      [
+       -117.0,
+       37.333333333333336
+      ],
+      [
+       -117.0,
+       39.66666666666667
+      ],
+      [
+       -118.5,
+       39.66666666666667
+      ],
+      [
+       -118.5,
+       37.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1043",
+    "name": "Nevada County 12",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 38.5,
+    "centroid_lon": -116.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.0,
+       37.333333333333336
+      ],
+      [
+       -115.5,
+       37.333333333333336
+      ],
+      [
+       -115.5,
+       39.66666666666667
+      ],
+      [
+       -117.0,
+       39.66666666666667
+      ],
+      [
+       -117.0,
+       37.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1044",
+    "name": "Nevada County 13",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 38.5,
+    "centroid_lon": -114.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.5,
+       37.333333333333336
+      ],
+      [
+       -114.0,
+       37.333333333333336
+      ],
+      [
+       -114.0,
+       39.66666666666667
+      ],
+      [
+       -115.5,
+       39.66666666666667
+      ],
+      [
+       -115.5,
+       37.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1045",
+    "name": "Nevada County 20",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 40.83333333333333,
+    "centroid_lon": -119.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.0,
+       39.666666666666664
+      ],
+      [
+       -118.5,
+       39.666666666666664
+      ],
+      [
+       -118.5,
+       42.0
+      ],
+      [
+       -120.0,
+       42.0
+      ],
+      [
+       -120.0,
+       39.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1046",
+    "name": "Nevada County 21",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 40.83333333333333,
+    "centroid_lon": -117.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.5,
+       39.666666666666664
+      ],
+      [
+       -117.0,
+       39.666666666666664
+      ],
+      [
+       -117.0,
+       42.0
+      ],
+      [
+       -118.5,
+       42.0
+      ],
+      [
+       -118.5,
+       39.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1047",
+    "name": "Nevada County 22",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 40.83333333333333,
+    "centroid_lon": -116.25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.0,
+       39.666666666666664
+      ],
+      [
+       -115.5,
+       39.666666666666664
+      ],
+      [
+       -115.5,
+       42.0
+      ],
+      [
+       -117.0,
+       42.0
+      ],
+      [
+       -117.0,
+       39.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1048",
+    "name": "Nevada County 23",
+    "state": "NV",
+    "state_name": "Nevada",
+    "centroid_lat": 40.83333333333333,
+    "centroid_lon": -114.75
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.5,
+       39.666666666666664
+      ],
+      [
+       -114.0,
+       39.666666666666664
+      ],
+      [
+       -114.0,
+       42.0
+      ],
+      [
+       -115.5,
+       42.0
+      ],
+      [
+       -115.5,
+       39.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1049",
+    "name": "Idaho County 00",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 43.166666666666664,
+    "centroid_lon": -116.425
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.2,
+       42.0
+      ],
+      [
+       -115.65,
+       42.0
+      ],
+      [
+       -115.65,
+       44.333333333333336
+      ],
+      [
+       -117.2,
+       44.333333333333336
+      ],
+      [
+       -117.2,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1050",
+    "name": "Idaho County 01",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 43.166666666666664,
+    "centroid_lon": -114.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.65,
+       42.0
+      ],
+      [
+       -114.10000000000001,
+       42.0
+      ],
+      [
+       -114.10000000000001,
+       44.333333333333336
+      ],
+      [
+       -115.65,
+       44.333333333333336
+      ],
+      [
+       -115.65,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1051",
+    "name": "Idaho County 02",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 43.166666666666664,
+    "centroid_lon": -113.32499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -114.1,
+       42.0
+      ],
+      [
+       -112.55,
+       42.0
+      ],
+      [
+       -112.55,
+       44.333333333333336
+      ],
+      [
+       -114.1,
+       44.333333333333336
+      ],
+      [
+       -114.1,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1052",
+    "name": "Idaho County 03",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 43.166666666666664,
+    "centroid_lon": -111.77499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -112.55,
+       42.0
+      ],
+      [
+       -111.0,
+       42.0
+      ],
+      [
+       -111.0,
+       44.333333333333336
+      ],
+      [
+       -112.55,
+       44.333333333333336
+      ],
+      [
+       -112.55,
+       42.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1053",
+    "name": "Idaho County 10",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 45.5,
+    "centroid_lon": -116.425
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.2,
+       44.333333333333336
+      ],
+      [
+       -115.65,
+       44.333333333333336
+      ],
+      [
+       -115.65,
+       46.66666666666667
+      ],
+      [
+       -117.2,
+       46.66666666666667
+      ],
+      [
+       -117.2,
+       44.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1054",
+    "name": "Idaho County 11",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 45.5,
+    "centroid_lon": -114.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.65,
+       44.333333333333336
+      ],
+      [
+       -114.10000000000001,
+       44.333333333333336
+      ],
+      [
+       -114.10000000000001,
+       46.66666666666667
+      ],
+      [
+       -115.65,
+       46.66666666666667
+      ],
+      [
+       -115.65,
+       44.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1055",
+    "name": "Idaho County 12",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 45.5,
+    "centroid_lon": -113.32499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -114.1,
+       44.333333333333336
+      ],
+      [
+       -112.55,
+       44.333333333333336
+      ],
+      [
+       -112.55,
+       46.66666666666667
+      ],
+      [
+       -114.1,
+       46.66666666666667
+      ],
+      [
+       -114.1,
+       44.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1056",
+    "name": "Idaho County 13",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 45.5,
+    "centroid_lon": -111.77499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -112.55,
+       44.333333333333336
+      ],
+      [
+       -111.0,
+       44.333333333333336
+      ],
+      [
+       -111.0,
+       46.66666666666667
+      ],
+      [
+       -112.55,
+       46.66666666666667
+      ],
+      [
+       -112.55,
+       44.333333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1057",
+    "name": "Idaho County 20",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 47.83333333333333,
+    "centroid_lon": -116.425
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.2,
+       46.666666666666664
+      ],
+      [
+       -115.65,
+       46.666666666666664
+      ],
+      [
+       -115.65,
+       49.0
+      ],
+      [
+       -117.2,
+       49.0
+      ],
+      [
+       -117.2,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1058",
+    "name": "Idaho County 21",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 47.83333333333333,
+    "centroid_lon": -114.875
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -115.65,
+       46.666666666666664
+      ],
+      [
+       -114.10000000000001,
+       46.666666666666664
+      ],
+      [
+       -114.10000000000001,
+       49.0
+      ],
+      [
+       -115.65,
+       49.0
+      ],
+      [
+       -115.65,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1059",
+    "name": "Idaho County 22",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 47.83333333333333,
+    "centroid_lon": -113.32499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -114.1,
+       46.666666666666664
+      ],
+      [
+       -112.55,
+       46.666666666666664
+      ],
+      [
+       -112.55,
+       49.0
+      ],
+      [
+       -114.1,
+       49.0
+      ],
+      [
+       -114.1,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1060",
+    "name": "Idaho County 23",
+    "state": "ID",
+    "state_name": "Idaho",
+    "centroid_lat": 47.83333333333333,
+    "centroid_lon": -111.77499999999999
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -112.55,
+       46.666666666666664
+      ],
+      [
+       -111.0,
+       46.666666666666664
+      ],
+      [
+       -111.0,
+       49.0
+      ],
+      [
+       -112.55,
+       49.0
+      ],
+      [
+       -112.55,
+       46.666666666666664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1061",
+    "name": "Montana County 00",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 45.166666666666664,
+    "centroid_lon": -114.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.0,
+       44.4
+      ],
+      [
+       -113.0,
+       44.4
+      ],
+      [
+       -113.0,
+       45.93333333333333
+      ],
+      [
+       -116.0,
+       45.93333333333333
+      ],
+      [
+       -116.0,
+       44.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1062",
+    "name": "Montana County 01",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 45.166666666666664,
+    "centroid_lon": -111.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -113.0,
+       44.4
+      ],
+      [
+       -110.0,
+       44.4
+      ],
+      [
+       -110.0,
+       45.93333333333333
+      ],
+      [
+       -113.0,
+       45.93333333333333
+      ],
+      [
+       -113.0,
+       44.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1063",
+    "name": "Montana County 02",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 45.166666666666664,
+    "centroid_lon": -108.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -110.0,
+       44.4
+      ],
+      [
+       -107.0,
+       44.4
+      ],
+      [
+       -107.0,
+       45.93333333333333
+      ],
+      [
+       -110.0,
+       45.93333333333333
+      ],
+      [
+       -110.0,
+       44.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1064",
+    "name": "Montana County 03",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 45.166666666666664,
+    "centroid_lon": -105.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -107.0,
+       44.4
+      ],
+      [
+       -104.0,
+       44.4
+      ],
+      [
+       -104.0,
+       45.93333333333333
+      ],
+      [
+       -107.0,
+       45.93333333333333
+      ],
+      [
+       -107.0,
+       44.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1065",
+    "name": "Montana County 10",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 46.699999999999996,
+    "centroid_lon": -114.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.0,
+       45.93333333333333
+      ],
+      [
+       -113.0,
+       45.93333333333333
+      ],
+      [
+       -113.0,
+       47.46666666666666
+      ],
+      [
+       -116.0,
+       47.46666666666666
+      ],
+      [
+       -116.0,
+       45.93333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1066",
+    "name": "Montana County 11",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 46.699999999999996,
+    "centroid_lon": -111.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -113.0,
+       45.93333333333333
+      ],
+      [
+       -110.0,
+       45.93333333333333
+      ],
+      [
+       -110.0,
+       47.46666666666666
+      ],
+      [
+       -113.0,
+       47.46666666666666
+      ],
+      [
+       -113.0,
+       45.93333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1067",
+    "name": "Montana County 12",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 46.699999999999996,
+    "centroid_lon": -108.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -110.0,
+       45.93333333333333
+      ],
+      [
+       -107.0,
+       45.93333333333333
+      ],
+      [
+       -107.0,
+       47.46666666666666
+      ],
+      [
+       -110.0,
+       47.46666666666666
+      ],
+      [
+       -110.0,
+       45.93333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1068",
+    "name": "Montana County 13",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 46.699999999999996,
+    "centroid_lon": -105.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -107.0,
+       45.93333333333333
+      ],
+      [
+       -104.0,
+       45.93333333333333
+      ],
+      [
+       -104.0,
+       47.46666666666666
+      ],
+      [
+       -107.0,
+       47.46666666666666
+      ],
+      [
+       -107.0,
+       45.93333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1069",
+    "name": "Montana County 20",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 48.233333333333334,
+    "centroid_lon": -114.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -116.0,
+       47.46666666666667
+      ],
+      [
+       -113.0,
+       47.46666666666667
+      ],
+      [
+       -113.0,
+       49.0
+      ],
+      [
+       -116.0,
+       49.0
+      ],
+      [
+       -116.0,
+       47.46666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1070",
+    "name": "Montana County 21",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 48.233333333333334,
+    "centroid_lon": -111.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -113.0,
+       47.46666666666667
+      ],
+      [
+       -110.0,
+       47.46666666666667
+      ],
+      [
+       -110.0,
+       49.0
+      ],
+      [
+       -113.0,
+       49.0
+      ],
+      [
+       -113.0,
+       47.46666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1071",
+    "name": "Montana County 22",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 48.233333333333334,
+    "centroid_lon": -108.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -110.0,
+       47.46666666666667
+      ],
+      [
+       -107.0,
+       47.46666666666667
+      ],
+      [
+       -107.0,
+       49.0
+      ],
+      [
+       -110.0,
+       49.0
+      ],
+      [
+       -110.0,
+       47.46666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "fips": "1072",
+    "name": "Montana County 23",
+    "state": "MT",
+    "state_name": "Montana",
+    "centroid_lat": 48.233333333333334,
+    "centroid_lon": -105.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -107.0,
+       47.46666666666667
+      ],
+      [
+       -104.0,
+       47.46666666666667
+      ],
+      [
+       -104.0,
+       49.0
+      ],
+      [
+       -107.0,
+       49.0
+      ],
+      [
+       -107.0,
+       47.46666666666667
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

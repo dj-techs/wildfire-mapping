@@ -1,0 +1,55 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pip:*)",
+      "Bash(pytest:*)",
+      "Bash(ruff:*)",
+      "Bash(black:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(curl:*)",
+      "Bash(jq:*)",
+      "Bash(wc:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git branch:*)",
+      "Read(*)",
+      "Edit(app/**)",
+      "Edit(tests/**)",
+      "Edit(scripts/**)",
+      "Edit(data/**)",
+      "Edit(infra/**)",
+      "Edit(.github/**)",
+      "Write(app/**)",
+      "Write(tests/**)",
+      "Write(scripts/**)",
+      "Write(infra/**)",
+      "Write(.github/**)"
+    ],
+    "ask": [
+      "Bash(git push:*)",
+      "Bash(aws:*)",
+      "Bash(terraform:*)",
+      "Bash(rm:*)",
+      "Write(.env)",
+      "Edit(.env)"
+    ],
+    "deny": [
+      "Bash(aws s3 rm:*)",
+      "Bash(aws iam delete:*)",
+      "Bash(rm -rf /*)"
+    ]
+  },
+  "env": {
+    "AUTH_DISABLED": "true",
+    "DASH_DEBUG": "true"
+  }
+}

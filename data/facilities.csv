@@ -1,0 +1,221 @@
+facility_id,name,type,state,county_fips,latitude,longitude,capacity_personnel,active
+FAC-0000,MT Air Tanker Base 0,Supply Depot,MT,1072,48.13862,-105.99405,171,True
+FAC-0001,WA Incident Command Post 1,Helibase,WA,1036,48.41005,-118.05178,45,True
+FAC-0002,WA Helibase 2,Supply Depot,WA,1026,46.41226,-121.8649,84,True
+FAC-0003,MT Helibase 3,Incident Command Post,MT,1064,45.27429,-104.9631,170,True
+FAC-0004,OR Fire Station 4,Fire Station,OR,1018,44.22187,-122.45935,211,False
+FAC-0005,WA Helibase 5,Incident Command Post,WA,1033,48.7865,-124.45308,24,True
+FAC-0006,NV Incident Command Post 6,Supply Depot,NV,1041,38.47303,-119.87129,37,True
+FAC-0007,CA Fire Station 7,Fire Station,CA,1006,36.92554,-120.39171,179,True
+FAC-0008,CA Supply Depot 8,Incident Command Post,CA,1001,34.49868,-122.62792,187,True
+FAC-0009,OR Helibase 9,Supply Depot,OR,1024,45.81117,-117.95421,234,True
+FAC-0010,ID Air Tanker Base 10,Incident Command Post,ID,1051,43.64213,-113.44351,86,True
+FAC-0011,WA Supply Depot 11,Fire Station,WA,1026,46.60816,-121.18571,126,True
+FAC-0012,ID Air Tanker Base 12,Air Tanker Base,ID,1060,47.44107,-112.3093,231,True
+FAC-0013,WA Air Tanker Base 13,Helibase,WA,1027,45.77418,-119.42021,128,True
+FAC-0014,ID Air Tanker Base 14,Supply Depot,ID,1058,47.82798,-114.59624,241,True
+FAC-0015,OR Supply Depot 15,Incident Command Post,OR,1017,44.62727,-123.72399,228,True
+FAC-0016,CA Supply Depot 16,Incident Command Post,CA,1007,35.88706,-118.70711,122,True
+FAC-0017,WA Fire Station 17,Air Tanker Base,WA,1033,48.89787,-124.79803,232,True
+FAC-0018,ID Incident Command Post 18,Incident Command Post,ID,1053,45.87418,-117.06772,19,True
+FAC-0019,WA Helibase 19,Incident Command Post,WA,1034,48.29188,-120.90692,205,True
+FAC-0020,WA Fire Station 20,Helibase,WA,1035,48.75926,-119.97459,40,True
+FAC-0021,OR Helibase 21,Helibase,OR,1022,45.19671,-121.92034,138,True
+FAC-0022,WA Air Tanker Base 22,Air Tanker Base,WA,1032,47.52457,-117.42386,99,True
+FAC-0023,ID Incident Command Post 23,Supply Depot,ID,1050,43.97766,-114.20814,193,True
+FAC-0024,NV Helibase 24,Helibase,NV,1047,40.70614,-116.51111,62,True
+FAC-0025,CA Fire Station 25,Fire Station,CA,1002,34.27408,-120.62931,179,True
+FAC-0026,MT Supply Depot 26,Helibase,MT,1067,46.93377,-107.93428,225,True
+FAC-0027,ID Fire Station 27,Air Tanker Base,ID,1054,46.58532,-114.4888,184,True
+FAC-0028,WA Incident Command Post 28,Air Tanker Base,WA,1034,48.57885,-121.66168,178,True
+FAC-0029,WA Air Tanker Base 29,Helibase,WA,1031,47.3353,-120.69073,95,True
+FAC-0030,NV Fire Station 30,Incident Command Post,NV,1039,36.35355,-116.6165,91,True
+FAC-0031,NV Air Tanker Base 31,Fire Station,NV,1044,39.64829,-114.91013,25,True
+FAC-0032,WA Fire Station 32,Fire Station,WA,1026,46.32951,-122.08937,101,True
+FAC-0033,ID Helibase 33,Fire Station,ID,1050,43.03911,-115.24859,233,True
+FAC-0034,MT Supply Depot 34,Air Tanker Base,MT,1065,46.24687,-115.67572,233,True
+FAC-0035,MT Air Tanker Base 35,Incident Command Post,MT,1061,45.92352,-113.75413,116,True
+FAC-0036,OR Air Tanker Base 36,Incident Command Post,OR,1021,45.76767,-123.53454,91,True
+FAC-0037,MT Fire Station 37,Supply Depot,MT,1070,48.17324,-111.8223,102,True
+FAC-0038,CA Incident Command Post 38,Incident Command Post,CA,1005,38.78802,-123.25522,108,True
+FAC-0039,OR Air Tanker Base 39,Helibase,OR,1013,43.00878,-123.84868,12,False
+FAC-0040,OR Fire Station 40,Air Tanker Base,OR,1017,43.74421,-123.35224,42,True
+FAC-0041,WA Fire Station 41,Air Tanker Base,WA,1025,45.80546,-123.88162,26,True
+FAC-0042,MT Supply Depot 42,Helibase,MT,1070,47.90693,-110.46708,133,True
+FAC-0043,OR Incident Command Post 43,Supply Depot,OR,1018,44.85352,-121.0163,54,True
+FAC-0044,NV Helibase 44,Fire Station,NV,1048,41.04435,-115.40531,131,True
+FAC-0045,NV Air Tanker Base 45,Air Tanker Base,NV,1047,41.06675,-116.49601,187,True
+FAC-0046,OR Helibase 46,Fire Station,OR,1017,43.89653,-123.11839,232,True
+FAC-0047,ID Air Tanker Base 47,Air Tanker Base,ID,1056,46.16228,-112.24781,150,True
+FAC-0048,OR Air Tanker Base 48,Supply Depot,OR,1023,45.18601,-119.28329,46,True
+FAC-0049,ID Supply Depot 49,Air Tanker Base,ID,1057,47.82832,-116.38291,99,True
+FAC-0050,ID Helibase 50,Incident Command Post,ID,1053,46.53418,-116.7345,180,True
+FAC-0051,MT Supply Depot 51,Supply Depot,MT,1064,44.8247,-106.20175,18,True
+FAC-0052,OR Fire Station 52,Fire Station,OR,1020,43.78506,-116.70627,150,True
+FAC-0053,CA Incident Command Post 53,Helibase,CA,1007,35.82221,-117.86837,90,True
+FAC-0054,NV Fire Station 54,Supply Depot,NV,1040,37.19791,-114.27176,148,True
+FAC-0055,CA Fire Station 55,Incident Command Post,CA,1002,32.53337,-121.03484,241,True
+FAC-0056,ID Supply Depot 56,Supply Depot,ID,1054,45.48092,-114.89595,137,True
+FAC-0057,WA Incident Command Post 57,Helibase,WA,1028,46.44654,-118.07925,106,True
+FAC-0058,ID Supply Depot 58,Air Tanker Base,ID,1050,42.68991,-114.432,249,True
+FAC-0059,NV Incident Command Post 59,Helibase,NV,1039,36.03293,-115.77414,68,True
+FAC-0060,MT Air Tanker Base 60,Helibase,MT,1062,45.71962,-111.26853,245,True
+FAC-0061,MT Supply Depot 61,Fire Station,MT,1065,47.35147,-115.65667,56,True
+FAC-0062,NV Helibase 62,Air Tanker Base,NV,1038,37.06749,-118.1899,83,True
+FAC-0063,CA Incident Command Post 63,Supply Depot,CA,1007,36.18787,-118.40178,12,True
+FAC-0064,CA Helibase 64,Fire Station,CA,1001,32.91345,-123.83719,169,True
+FAC-0065,ID Supply Depot 65,Incident Command Post,ID,1055,44.51075,-113.84604,134,True
+FAC-0066,ID Supply Depot 66,Incident Command Post,ID,1053,45.66833,-116.61464,39,True
+FAC-0067,CA Air Tanker Base 67,Helibase,CA,1012,39.77712,-115.47241,121,True
+FAC-0068,ID Incident Command Post 68,Helibase,ID,1057,47.89669,-116.19941,216,True
+FAC-0069,NV Helibase 69,Fire Station,NV,1045,41.70155,-118.64526,72,True
+FAC-0070,MT Incident Command Post 70,Helibase,MT,1069,47.86908,-115.2405,26,True
+FAC-0071,WA Supply Depot 71,Helibase,WA,1032,47.04015,-117.3037,74,True
+FAC-0072,MT Air Tanker Base 72,Fire Station,MT,1062,45.0725,-112.167,46,True
+FAC-0073,WA Helibase 73,Fire Station,WA,1036,48.35177,-117.94533,211,True
+FAC-0074,CA Incident Command Post 74,Helibase,CA,1011,41.22719,-116.8146,95,True
+FAC-0075,MT Air Tanker Base 75,Incident Command Post,MT,1069,47.80544,-113.45497,20,True
+FAC-0076,CA Fire Station 76,Supply Depot,CA,1004,33.52501,-114.21487,83,True
+FAC-0077,OR Incident Command Post 77,Supply Depot,OR,1015,42.54436,-119.6237,82,False
+FAC-0078,CA Air Tanker Base 78,Supply Depot,CA,1009,39.71129,-122.99941,114,True
+FAC-0079,MT Incident Command Post 79,Air Tanker Base,MT,1061,44.60659,-115.69055,73,True
+FAC-0080,CA Supply Depot 80,Air Tanker Base,CA,1008,38.08284,-114.59121,61,True
+FAC-0081,WA Helibase 81,Supply Depot,WA,1025,45.92983,-123.09027,248,True
+FAC-0082,MT Air Tanker Base 82,Incident Command Post,MT,1070,48.07379,-112.93959,57,True
+FAC-0083,OR Incident Command Post 83,Helibase,OR,1016,43.31326,-117.31118,153,True
+FAC-0084,NV Incident Command Post 84,Air Tanker Base,NV,1042,38.50991,-117.55066,209,True
+FAC-0085,MT Helibase 85,Air Tanker Base,MT,1061,45.11311,-113.0473,22,True
+FAC-0086,MT Incident Command Post 86,Air Tanker Base,MT,1061,45.29093,-114.63303,232,True
+FAC-0087,ID Incident Command Post 87,Helibase,ID,1050,43.32818,-115.01153,138,True
+FAC-0088,NV Fire Station 88,Supply Depot,NV,1043,39.17891,-115.53588,81,True
+FAC-0089,CA Helibase 89,Air Tanker Base,CA,1006,36.11157,-120.71031,166,True
+FAC-0090,CA Helibase 90,Incident Command Post,CA,1004,32.55452,-114.82354,69,True
+FAC-0091,OR Incident Command Post 91,Air Tanker Base,OR,1019,43.64506,-119.69048,98,True
+FAC-0092,WA Fire Station 92,Supply Depot,WA,1031,47.39134,-120.86939,118,True
+FAC-0093,CA Incident Command Post 93,Incident Command Post,CA,1009,39.84504,-123.29562,225,True
+FAC-0094,ID Supply Depot 94,Incident Command Post,ID,1057,48.53694,-116.94488,33,True
+FAC-0095,MT Incident Command Post 95,Incident Command Post,MT,1071,47.51926,-108.61894,87,False
+FAC-0096,NV Incident Command Post 96,Fire Station,NV,1043,39.1179,-115.93224,103,True
+FAC-0097,ID Air Tanker Base 97,Helibase,ID,1051,43.4622,-113.57497,143,True
+FAC-0098,NV Fire Station 98,Supply Depot,NV,1048,40.72469,-115.45014,31,True
+FAC-0099,CA Air Tanker Base 99,Fire Station,CA,1006,36.98212,-120.80204,209,True
+FAC-0100,OR Incident Command Post 100,Helibase,OR,1014,42.78476,-121.86486,210,False
+FAC-0101,OR Supply Depot 101,Air Tanker Base,OR,1024,46.22022,-117.53299,125,True
+FAC-0102,MT Incident Command Post 102,Air Tanker Base,MT,1072,47.63785,-104.68728,89,True
+FAC-0103,MT Helibase 103,Air Tanker Base,MT,1061,44.77005,-115.68973,154,False
+FAC-0104,MT Helibase 104,Incident Command Post,MT,1068,46.26415,-105.88406,76,True
+FAC-0105,MT Incident Command Post 105,Fire Station,MT,1065,47.25254,-115.38743,118,True
+FAC-0106,WA Helibase 106,Fire Station,WA,1026,45.99649,-121.80533,249,True
+FAC-0107,MT Incident Command Post 107,Supply Depot,MT,1062,45.83219,-111.88582,124,True
+FAC-0108,NV Supply Depot 108,Helibase,NV,1042,39.2254,-118.06408,133,True
+FAC-0109,OR Fire Station 109,Air Tanker Base,OR,1017,43.45044,-123.79242,94,True
+FAC-0110,MT Incident Command Post 110,Fire Station,MT,1069,48.59733,-114.04704,16,True
+FAC-0111,NV Air Tanker Base 111,Air Tanker Base,NV,1041,38.56673,-118.79111,97,True
+FAC-0112,NV Air Tanker Base 112,Fire Station,NV,1038,36.82977,-117.36589,144,False
+FAC-0113,NV Supply Depot 113,Fire Station,NV,1037,35.0383,-118.5882,104,True
+FAC-0114,ID Supply Depot 114,Incident Command Post,ID,1060,48.85141,-111.41053,72,True
+FAC-0115,ID Helibase 115,Fire Station,ID,1049,43.56594,-117.17865,32,True
+FAC-0116,NV Fire Station 116,Air Tanker Base,NV,1047,41.92815,-116.05547,175,True
+FAC-0117,WA Fire Station 117,Fire Station,WA,1036,48.59681,-118.09112,20,True
+FAC-0118,NV Incident Command Post 118,Incident Command Post,NV,1040,35.70203,-114.99643,45,True
+FAC-0119,MT Incident Command Post 119,Incident Command Post,MT,1062,45.74035,-112.93069,184,False
+FAC-0120,ID Incident Command Post 120,Air Tanker Base,ID,1050,43.84248,-115.16924,95,True
+FAC-0121,NV Incident Command Post 121,Fire Station,NV,1045,41.65537,-118.89135,245,True
+FAC-0122,ID Supply Depot 122,Helibase,ID,1051,42.50758,-113.77269,45,True
+FAC-0123,NV Fire Station 123,Helibase,NV,1039,36.7995,-116.45577,19,True
+FAC-0124,WA Supply Depot 124,Air Tanker Base,WA,1029,46.74206,-124.34036,76,True
+FAC-0125,ID Incident Command Post 125,Fire Station,ID,1053,44.9115,-116.57786,207,False
+FAC-0126,CA Incident Command Post 126,Fire Station,CA,1005,36.33711,-123.81789,79,True
+FAC-0127,MT Helibase 127,Helibase,MT,1071,48.30039,-107.39666,171,True
+FAC-0128,NV Incident Command Post 128,Helibase,NV,1041,37.35724,-119.84327,38,True
+FAC-0129,CA Helibase 129,Air Tanker Base,CA,1007,37.25621,-117.76785,28,True
+FAC-0130,CA Fire Station 130,Helibase,CA,1002,34.08677,-119.37493,114,True
+FAC-0131,MT Air Tanker Base 131,Incident Command Post,MT,1072,48.83642,-106.69206,85,True
+FAC-0132,OR Supply Depot 132,Fire Station,OR,1014,42.78764,-121.14127,35,True
+FAC-0133,NV Air Tanker Base 133,Supply Depot,NV,1042,38.28733,-118.10834,122,True
+FAC-0134,OR Fire Station 134,Air Tanker Base,OR,1020,43.74728,-116.76784,122,True
+FAC-0135,MT Air Tanker Base 135,Incident Command Post,MT,1065,46.1974,-114.64272,100,True
+FAC-0136,NV Incident Command Post 136,Fire Station,NV,1040,35.84901,-114.76758,171,True
+FAC-0137,MT Helibase 137,Air Tanker Base,MT,1065,46.62541,-114.14931,176,True
+FAC-0138,NV Helibase 138,Fire Station,NV,1044,37.55278,-114.33899,238,True
+FAC-0139,ID Supply Depot 139,Supply Depot,ID,1049,43.92962,-115.74637,124,True
+FAC-0140,ID Supply Depot 140,Fire Station,ID,1054,46.31238,-115.1339,104,True
+FAC-0141,WA Incident Command Post 141,Air Tanker Base,WA,1034,48.23584,-122.29634,163,True
+FAC-0142,ID Supply Depot 142,Supply Depot,ID,1054,45.00022,-114.50526,32,True
+FAC-0143,OR Helibase 143,Incident Command Post,OR,1015,43.33591,-118.82955,21,True
+FAC-0144,MT Fire Station 144,Incident Command Post,MT,1065,46.59048,-114.54468,58,True
+FAC-0145,WA Supply Depot 145,Air Tanker Base,WA,1025,46.19327,-123.93372,89,True
+FAC-0146,MT Helibase 146,Supply Depot,MT,1061,44.40373,-113.98965,178,True
+FAC-0147,NV Supply Depot 147,Fire Station,NV,1040,36.97134,-114.84516,213,True
+FAC-0148,OR Air Tanker Base 148,Supply Depot,OR,1016,42.27417,-118.11933,100,True
+FAC-0149,CA Helibase 149,Air Tanker Base,CA,1012,39.28736,-115.16291,222,True
+FAC-0150,MT Supply Depot 150,Supply Depot,MT,1069,47.65508,-115.23251,28,True
+FAC-0151,NV Supply Depot 151,Air Tanker Base,NV,1046,39.97589,-118.09024,231,True
+FAC-0152,CA Incident Command Post 152,Fire Station,CA,1001,35.35828,-123.53455,140,True
+FAC-0153,MT Helibase 153,Air Tanker Base,MT,1068,47.00226,-104.23202,130,True
+FAC-0154,ID Air Tanker Base 154,Incident Command Post,ID,1051,42.71599,-113.80837,64,True
+FAC-0155,OR Helibase 155,Helibase,OR,1014,42.3558,-121.03339,50,True
+FAC-0156,WA Helibase 156,Helibase,WA,1032,47.14433,-118.64843,244,True
+FAC-0157,ID Supply Depot 157,Incident Command Post,ID,1057,48.72487,-116.7483,213,True
+FAC-0158,OR Helibase 158,Incident Command Post,OR,1016,43.21048,-117.33873,124,True
+FAC-0159,ID Air Tanker Base 159,Incident Command Post,ID,1059,48.02833,-112.93353,84,True
+FAC-0160,WA Helibase 160,Supply Depot,WA,1025,45.7348,-123.26464,173,True
+FAC-0161,OR Helibase 161,Helibase,OR,1021,46.05526,-122.52362,139,True
+FAC-0162,CA Helibase 162,Helibase,CA,1001,33.54606,-122.11171,239,True
+FAC-0163,MT Air Tanker Base 163,Fire Station,MT,1065,46.21965,-115.37229,111,True
+FAC-0164,WA Incident Command Post 164,Fire Station,WA,1027,46.06427,-119.19512,97,True
+FAC-0165,CA Incident Command Post 165,Air Tanker Base,CA,1006,37.42283,-119.47276,58,True
+FAC-0166,NV Fire Station 166,Incident Command Post,NV,1041,38.88441,-118.80677,14,True
+FAC-0167,ID Air Tanker Base 167,Air Tanker Base,ID,1052,43.90821,-112.1167,118,True
+FAC-0168,CA Air Tanker Base 168,Incident Command Post,CA,1008,38.4258,-114.34462,145,True
+FAC-0169,NV Supply Depot 169,Supply Depot,NV,1047,39.83458,-115.56745,208,True
+FAC-0170,WA Fire Station 170,Supply Depot,WA,1031,47.30154,-119.80143,134,True
+FAC-0171,CA Fire Station 171,Fire Station,CA,1012,40.66937,-114.36683,182,True
+FAC-0172,ID Air Tanker Base 172,Air Tanker Base,ID,1055,45.31389,-114.08092,193,True
+FAC-0173,CA Air Tanker Base 173,Helibase,CA,1008,35.7866,-115.86453,243,True
+FAC-0174,OR Helibase 174,Incident Command Post,OR,1023,45.31235,-118.88052,173,True
+FAC-0175,OR Fire Station 175,Incident Command Post,OR,1019,44.80819,-118.6338,188,True
+FAC-0176,ID Air Tanker Base 176,Supply Depot,ID,1055,44.56503,-112.60942,21,True
+FAC-0177,OR Fire Station 177,Fire Station,OR,1017,44.19209,-124.36988,92,True
+FAC-0178,MT Air Tanker Base 178,Incident Command Post,MT,1064,44.42708,-104.23031,236,True
+FAC-0179,CA Supply Depot 179,Air Tanker Base,CA,1005,37.60399,-123.01863,232,True
+FAC-0180,MT Fire Station 180,Incident Command Post,MT,1068,47.36359,-105.81302,64,True
+FAC-0181,CA Air Tanker Base 181,Fire Station,CA,1012,40.59765,-114.62265,84,False
+FAC-0182,WA Incident Command Post 182,Helibase,WA,1029,46.89529,-123.88146,31,True
+FAC-0183,WA Fire Station 183,Incident Command Post,WA,1026,45.72751,-121.7218,238,True
+FAC-0184,CA Helibase 184,Air Tanker Base,CA,1004,33.58075,-114.2273,111,True
+FAC-0185,MT Supply Depot 185,Helibase,MT,1062,44.67182,-112.97818,83,True
+FAC-0186,NV Incident Command Post 186,Incident Command Post,NV,1042,38.38073,-117.16078,225,True
+FAC-0187,OR Air Tanker Base 187,Incident Command Post,OR,1022,45.10781,-122.37378,40,True
+FAC-0188,OR Air Tanker Base 188,Air Tanker Base,OR,1023,45.99136,-120.19465,44,True
+FAC-0189,OR Fire Station 189,Fire Station,OR,1023,45.33676,-118.57186,85,True
+FAC-0190,WA Supply Depot 190,Helibase,WA,1032,47.77585,-117.8762,207,True
+FAC-0191,NV Incident Command Post 191,Helibase,NV,1038,35.19907,-118.14791,211,True
+FAC-0192,WA Helibase 192,Incident Command Post,WA,1035,47.89413,-120.01368,54,True
+FAC-0193,WA Helibase 193,Incident Command Post,WA,1035,48.08613,-119.43063,223,True
+FAC-0194,MT Supply Depot 194,Fire Station,MT,1062,44.9512,-110.47319,81,True
+FAC-0195,NV Supply Depot 195,Fire Station,NV,1044,38.59255,-114.68377,13,True
+FAC-0196,MT Incident Command Post 196,Incident Command Post,MT,1064,45.88627,-104.75697,23,True
+FAC-0197,OR Fire Station 197,Air Tanker Base,OR,1015,42.20756,-119.6124,206,True
+FAC-0198,MT Air Tanker Base 198,Fire Station,MT,1065,46.22918,-115.99291,216,True
+FAC-0199,ID Fire Station 199,Fire Station,ID,1054,44.95083,-114.74994,31,True
+FAC-0200,CA Air Tanker Base 200,Air Tanker Base,CA,1004,34.45727,-116.38708,93,True
+FAC-0201,ID Helibase 201,Fire Station,ID,1056,44.73968,-112.29211,185,True
+FAC-0202,CA Air Tanker Base 202,Helibase,CA,1010,41.18693,-119.27706,112,True
+FAC-0203,WA Supply Depot 203,Fire Station,WA,1030,47.109,-122.39935,241,True
+FAC-0204,OR Helibase 204,Fire Station,OR,1020,43.44452,-118.1194,186,True
+FAC-0205,NV Supply Depot 205,Fire Station,NV,1038,37.14956,-118.02535,95,True
+FAC-0206,NV Fire Station 206,Fire Station,NV,1047,39.83841,-116.95674,225,True
+FAC-0207,NV Air Tanker Base 207,Supply Depot,NV,1043,38.36228,-116.3804,50,True
+FAC-0208,WA Helibase 208,Helibase,WA,1029,47.09726,-124.08864,71,True
+FAC-0209,WA Fire Station 209,Air Tanker Base,WA,1034,48.59419,-122.63662,190,True
+FAC-0210,MT Fire Station 210,Fire Station,MT,1068,46.51044,-104.64985,111,True
+FAC-0211,ID Air Tanker Base 211,Air Tanker Base,ID,1055,45.02132,-114.06636,103,True
+FAC-0212,ID Supply Depot 212,Incident Command Post,ID,1057,46.85602,-116.51212,21,True
+FAC-0213,CA Air Tanker Base 213,Helibase,CA,1011,39.4402,-117.94176,231,True
+FAC-0214,MT Supply Depot 214,Air Tanker Base,MT,1064,45.43912,-104.91771,110,True
+FAC-0215,NV Incident Command Post 215,Incident Command Post,NV,1041,39.53572,-119.20961,190,True
+FAC-0216,MT Helibase 216,Incident Command Post,MT,1068,47.02844,-105.21567,230,True
+FAC-0217,MT Fire Station 217,Fire Station,MT,1062,44.88645,-110.08759,27,True
+FAC-0218,WA Incident Command Post 218,Supply Depot,WA,1034,48.17489,-122.62378,103,True
+FAC-0219,ID Air Tanker Base 219,Helibase,ID,1054,44.50685,-114.96862,29,True
